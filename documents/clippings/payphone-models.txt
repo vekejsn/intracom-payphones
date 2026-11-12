@@ -1,0 +1,658 @@
+ <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><img src="/web/20020908085921im_/http://www.intrarom.ro/images/Standard/tit-products.jpg" alt="Products" width="140" height="36"><p>&nbsp;&nbsp;</font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="405" colspan="4"><font face="Arial, Helvetica"><h1><font face="Arial, Helvetica" color="#888888">Terminal Equipment</font></h1>
+    <h2><font face="Arial, Helvetica" color="#888888">Integrated Cardphones Systems<br>
+      </font></h2>
+    </font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35" rowspan="2"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2" rowspan="2"><font face="Arial, Helvetica">
+      </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard"><a href="#MUST 400">MUST 400</a></p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard"><a href="integ_card_sys.htm#INT 100">INT 100 </a></p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard"><a href="integ_card_sys.htm#INT 200">INT 200 </a></p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard"><a href="integ_card_sys.htm#INT 200 GSM">INT 200 GSM</a></p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard"><a href="integ_card_sys.htm#LU 300">LU 300</a></p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard"><a href="integ_card_sys.htm#PHONE BOOTHS">Phone Booths</a></p>
+        </font></td></tr>
+      </table><font face="Arial, Helvetica">
+    <p class="Standard">&nbsp;&nbsp;&nbsp; </p>
+    <p class="Standard">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+    <td width="30" rowspan="2"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><p class="Stand-right"><a href="/web/20020908085921/http://www.intrarom.ro/products/nms/csms.htm">CSMS
+    Cardphone Supervision &amp; Maintenance System</a></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60" valign="top"><font face="Arial, Helvetica"><p align="center"><a href="/web/20020908085921/http://www.intrarom.ro/products/nms/csms.htm"><img src="/web/20020908085921im_/http://www.intrarom.ro/images/Standard/Internal_link.GIF" alt="Internal WEB Link" border="0" width="35" height="35"></a></p>
+    <p align="center">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60" valign="top"><font face="Arial, Helvetica"><p align="center"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888"><a name="MUST 400"></a></font></h2>
+    <h2><font face="Arial, Helvetica" color="#888888">MUST 400</font></h2>
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><p class="Standard">The MUST (Multiple Service Terminal) cardphone is the advanced solution of INTRACOM to public telephony. By utilizing the ISDN capabilities, the MUST cardphone allows the operator to provide value added services, while it retains all features of INT cardphone series. The MUST cardphone is a new member of INTRACOM cardphone system line. Supervised by the Cardphone Supervision and Maintenance System (CSMS), MUST cardphone is the ideal path to ISDN technology. For existing cardphone networks, it is a low cost solution for new ISDN installations or for direct replacement of ordinary
+      cardphones.<br>
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><img src="/web/20020908085921im_/http://www.intrarom.ro/images/Products/terminal_equip/must400.jpg" alt="MUST 400 Cardphone" width="200" height="270"><p class="Picture">MUST
+      400 Cardphone</p>
+    <p class="Picture">&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888">Services</font></h2>
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica">
+      <p class="Standard">CFDS (Content Formatting and Distribution System) is implemented in a way to provide services according to operator's needs. Priority has been given to flexibility. More specifically, the type of content that can be displayed on the ISDN cardphone screen
+      includes:<br>
+      </p>
+      </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Static information that is stored in cardpnone's memory depending on the location of the terminal.</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">	Dynamic information, depending on user input, for which communication with a server is required.</p>
+        </font></td></tr>
+      </table><font face="Arial, Helvetica">
+      <p class="Standard">
+      Access to all services is simple and straightforward. Eight programmable buttons, located at both sides of the MUST terminal screen, control all actions.
+      </p>
+      <p class="Standard">
+      The functionality of each button depends on the screen being displayed. Each button is associated with a descriptive image and
+      short text, making navigation fast and easy. Access to services can be achieved during the idle mode or during the call.&nbsp;
+      <br>
+    &nbsp;&nbsp;
+      </p>
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica">
+      <p class="Standard">
+ Examples of services provided by the MUST 400 are:<br>
+      </p>
+      </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">	Telephone Directory</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Weather Forecast</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">	SMS Sending</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">	E-Mail reception (text) or external PC connection</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">	Neighborhood map</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">	On Duty Emergency Places (e.g. Hospitals, Pharmacies)</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">	Emergency Numbers (e.g. Police, Firebrigade)</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">	Stock Exchange Information&nbsp;</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">	Exchange rate information&nbsp;</p>
+        </font></td></tr>
+      </table><font face="Arial, Helvetica">
+    <p class="Standard">
+      The operator has the ability to create new services and the associated screens, simulate the operation and decide the group of cardphones these services will be applied to. During the on-hook state, the MUST cardphone provides the capability to display advertising messages, in graphics format, that are of global or local content.<br>
+    </font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888">Product Leaflet</font></h2>
+    </font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><p class="Stand-right"><a href="/web/20020908085921/http://www.intrarom.ro/pdf/products/Term_Equip/must_400_cardphone.pdf">Must
+      400 Cardphone&nbsp;<br>
+      </a> (277 KB)</font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"><p align="center"><a href="/web/20020908085921/http://www.intrarom.ro/pdf/products/Term_Equip/must_400_cardphone.pdf"><img src="/web/20020908085921im_/http://www.intrarom.ro/images/Standard/Pdf.gif" border="0" alt="PDF Download" width="35" height="35"></a></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888"><a name="INT 100"></a></font></h2>
+    <h2><font face="Arial, Helvetica" color="#888888">INT 100</font></h2>
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><p class="Standard">The INT 100 is a tabletop or
+    wall mounted indoor type cardphone with compact design. It is ideal for indoor supervised
+    premises such as hotels, restaurants etc.<br>
+    &nbsp;&nbsp;</font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><img src="/web/20020908085921im_/http://www.intrarom.ro/images/Products/terminal_equip/int_100.jpg" alt="INT 100 Cardphone" width="240" height="165"><p class="Picture">INT 100 Cardphone</p>
+    <p class="Picture">&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888">Features</font></h2>
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica">
+      </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Compact and modular construction</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Uses same basic H/W and S/W as the INT 200</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Active card authentication (5 SAM modules)</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Prepaid and magnetic credit card option on the same cardreader</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Built-in line antifraud protocol in conjunction <br>
+        with the LU 300</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Fax/modem connection option</p>
+        </font></td></tr>
+      </table><font face="Arial, Helvetica">
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica">
+      </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Inclined mounting base</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Satellite connection option</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Highly parametric operation, full firmware downloading from the CSMS</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Multilingual graphics/backlit display options</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Four function keys</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">12/16KHz, or autotariff debiting</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">No battery required</p>
+        </font></td></tr>
+      </table><font face="Arial, Helvetica">
+    <p class="Standard">&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888">Product Leaflet</font></h2>
+    </font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><p class="Stand-right"><a href="/web/20020908085921/http://www.intrarom.ro/pdf/products/Term_Equip/INTER_CARDPHONE.pdf">Integrated Cardphone System</a><br>
+    (466 KB)</font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"><p align="center"><a href="/web/20020908085921/http://www.intrarom.ro/pdf/products/Term_Equip/INTER_CARDPHONE.pdf"><img src="/web/20020908085921im_/http://www.intrarom.ro/images/Standard/Pdf.gif" border="0" alt="PDF Download" width="35" height="35"></a></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888"><a name="INT 200"></a></font></h2>
+    <h2><font face="Arial, Helvetica" color="#888888">INT 200</font></h2>
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><p class="Standard">The INT 200 cardphone is a
+    wall mounted outdoor type cardphone with high mechanical strength and resistance to
+    vandalism. It is ideal for all weather outdoor public use.<br>
+    &nbsp;&nbsp;</font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><img src="/web/20020908085921im_/http://www.intrarom.ro/images/Products/terminal_equip/int_200.jpg" alt="INT 200 Cardphone" width="180" height="263"><p class="Picture">INT 200 Cardphone</p>
+    <p class="Picture">&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888">Features</font></h2>
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica">
+      </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Modular and robust metallic construction</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Active card authentication (5 SAM modules)</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Prepaid and magnetic credit card option on the same cardreader</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Highly parametric operation, full firmware downloading from the CSMS</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Multilingual graphics/backlit display options</p>
+        </font></td></tr>
+      </table><font face="Arial, Helvetica">
+    <p class="Standard">&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica">
+      </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Four function keys</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">12/16KHz, or autotariff debiting</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">No battery required</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Built-in line antifraud protocol in conjunction with <br>
+        the LU 300</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Pair gain system integration (4 cardphones over one a, b pair)</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Satellite connection option</p>
+        </font></td></tr>
+      </table><font face="Arial, Helvetica">
+    </font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888">Product Leaflet</font></h2>
+    </font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><p class="Stand-right"><a href="/web/20020908085921/http://www.intrarom.ro/pdf/products/Term_Equip/INTER_CARDPHONE.pdf">Integrated Cardphone System</a><br>
+    (466 KB)</font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"><p align="center"><a href="/web/20020908085921/http://www.intrarom.ro/pdf/products/Term_Equip/INTER_CARDPHONE.pdf"><img src="/web/20020908085921im_/http://www.intrarom.ro/images/Standard/Pdf.gif" border="0" alt="PDF Download" width="35" height="35"></a></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888"><a name="INT 200 GSM"></a></font></h2>
+    <h2><font face="Arial, Helvetica" color="#888888">INT 200 GSM</font></h2>
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><p class="Standard">The INT 200 GSM is a wall
+    mounted outdoor type cardphone with high mechanical strength and resistance to vandalism.
+    It is ideal for use in remote areas without fixed network infrastructure, as well as
+    on-board public transportation means such as trains, ships or temporary public use in
+    exhibitions, fairs, sporting events e.t.c.</font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><img src="/web/20020908085921im_/http://www.intrarom.ro/images/Products/terminal_equip/int_200_gsm.jpg" alt="INT 200 GSM Cardphone" width="180" height="263"><p class="Picture">INT 200 GSM Cardphone</p>
+    <p class="Picture">&nbsp;</font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888">Features</font></h2>
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica">
+      </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">GSM 900 or <br>
+        DCS 1800 compatibility</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Modular and robust construction</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">GSM module integrated <br>
+        in the housing</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Identical operation with INT 100 and INT 200</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">2/8 Watt transceiver options</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Fully manageable from the CSMS</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Active card authentication <br>
+        (5 SAM modules)</p>
+        </font></td></tr>
+      </table><font face="Arial, Helvetica">
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica">
+      </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Prepaid and Magnetic credit card option on the same cardreader</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Highly parametric operation, <br>
+        full firmware downloading from the CSMS</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Multilingual graphics/backlit <br>
+        display options</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Four function keys</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Solar panel power supply option</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Various antenna options</p>
+        </font></td></tr>
+      </table><font face="Arial, Helvetica">
+    </font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888">Product Leaflet</font></h2>
+    </font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><p class="Stand-right"><a href="/web/20020908085921/http://www.intrarom.ro/pdf/products/Term_Equip/INTER_CARDPHONE.pdf">Integrated Cardphone System</a><br>
+    (466 KB)</p>
+    <p class="Stand-right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"><p align="center"><a href="/web/20020908085921/http://www.intrarom.ro/pdf/products/Term_Equip/INTER_CARDPHONE.pdf"><img src="/web/20020908085921im_/http://www.intrarom.ro/images/Standard/Pdf.gif" border="0" alt="PDF Download" width="35" height="35"></a></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888"><a name="LU 300"></a></font></h2>
+    <h2><font face="Arial, Helvetica" color="#888888">LU 300</font></h2>
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><p class="Standard">The Line Unit is a device,
+    placed in the telephone exchange site and connected in series with the cardphone line. It
+    provides detection of the debiting criterion of the telephone exchange, either as DC pulse
+    or as 12/16KHz pulse, and generation of the 12/16KHz debiting pulses towards the
+    cardphone. Furthermore, in case an ordinary telephone is connected in parallel or in
+    series with the cardphone line, the Line Unit detects the fraud attempt and releases the
+    call.</p>
+    <p class="Standard">&nbsp;&nbsp;</font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><img src="/web/20020908085921im_/http://www.intrarom.ro/images/Products/terminal_equip/lu_300.jpg" alt="LU 300 Line Unit" width="240" height="240"><p class="Picture">LU 300 Line Unit</font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888">Features</font></h2>
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica">
+      </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Single Eurocard dimensions mounted on 19&quot; Euro subrack</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">14 LU 300 per subrack</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Continuous antifraud protocol in DOV</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Powered from the telephone exchange battery (-48 to -60 VDC)</p>
+        </font></td></tr>
+      </table><font face="Arial, Helvetica">
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica">
+      </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Debiting pulse regeneration (12/16KHz)</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">DC debiting signal detection</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Cardphone line power booster option (adds 18V on the loop voltage)</p>
+        </font></td></tr>
+      </table><font face="Arial, Helvetica">
+    </font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888">Product Leaflet</font></h2>
+    </font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"><p align="center"><a href="/web/20020908085921/http://www.intrarom.ro/pdf/products/Term_Equip/INTER_CARDPHONE.pdf"><img src="/web/20020908085921im_/http://www.intrarom.ro/images/Standard/Pdf.gif" border="0" alt="PDF Download" width="35" height="35"></a></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><p class="Stand-right"><a href="/web/20020908085921/http://www.intrarom.ro/pdf/products/Term_Equip/INTER_CARDPHONE.pdf">Integrated Cardphone System</a><br>
+    (466 KB)</p>
+    <p class="Stand-right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888"><a name="PHONE BOOTHS"></a></font></h2>
+    <h2><font face="Arial, Helvetica" color="#888888">PHONE BOOTHS</font></h2>
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><p class="Standard">The Phone Booth series 100
+    and 200 have been developed in order to provide robust and cost-effective equipment for
+    the accommodation of wall mounted type phones.<br>
+    The advanced CAD design and development as well as the highest quality materials utilised,
+    result to aesthetically attractive Phone Booths with maximum user comfort.<br>
+    INTRACOM Phone Booth&#146;s inherent modularity allows easy replacement of any vandalised
+    element through the exploitation time, offering simple maintenance and improved features.</p>
+    <p class="Standard">&nbsp;&nbsp;</font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><img src="/web/20020908085921im_/http://www.intrarom.ro/images/Products/terminal_equip/phone_booth.jpg" alt="Phone Booth" width="200" height="287"><p class="Picture">Phone Booth</font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888">Features</font></h2>
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica">
+      </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Modern and functional</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Utilised for almost every phone</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">User comfort</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Robust and environment proof</p>
+        </font></td></tr>
+      </table><font face="Arial, Helvetica">
+    </font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica">
+      </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">High quality</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Easy installation and maintenance</p>
+        </font></td></tr>
+        <tr><td valign="baseline" width="42"><img src="/web/20020908085921im_/http://www.intrarom.ro/_themes/ic-2000/bul-2.gif" width="6" height="6" hspace="18"></td><td valign="top" width="100%"><font face="Arial, Helvetica"><p class="Standard">Environment friendly and recyclable</p>
+        </font></td></tr>
+      </table><font face="Arial, Helvetica">
+    <p class="Standard"><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><h2><font face="Arial, Helvetica" color="#888888">Product Leaflet</font></h2>
+    </font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+  <tr>
+    <td width="35" valign="top"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="30" valign="top"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><p class="Stand-right" align="right"><a href="/web/20020908085921/http://www.intrarom.ro/pdf/products/Term_Equip/phone_booths.pdf">Phone Booths Series 100/200</a><br>
+    (424 KB)</p>
+    <p class="St-A-8x" align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+    <td width="15" valign="top"><font face="Arial, Helvetica"></font></td>
+    <td width="60" valign="top"><font face="Arial, Helvetica"><p align="center"><a href="/web/20020908085921/http://www.intrarom.ro/pdf/products/Term_Equip/phone_booths.pdf"><img src="/web/20020908085921im_/http://www.intrarom.ro/images/Standard/Pdf.gif" alt="Pdficon.gif (1016 bytes)" border="0" width="35" height="35"></a></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"><p align="center"><a href="integ_card_sys.htm#Top"><img src="/web/20020908085921im_/http://www.intrarom.ro/images/Standard/top.gif" alt="Top of page" border="0" width="35" height="35"></a></font></td>
+  </tr>
+  <tr>
+    <td width="35"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="250" colspan="2"><font face="Arial, Helvetica"><p class="small">Last update: 22
+      March, 2001</font></td>
+    <td width="30"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td valign="top" width="125"><font face="Arial, Helvetica"></font></td>
+    <td width="15"><font face="Arial, Helvetica"></font></td>
+    <td width="60"><font face="Arial, Helvetica"></font></td>
+  </tr>
+</table><font face="Arial, Helvetica">
+</div>
+
+<p>&nbsp;</font></td></tr></table><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><font face="Arial, Helvetica"></font><table width="780" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td valign="top" width="160" align="left" height="15"><font face="Arial, Helvetica"><p class="Address">&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;</font></td>
+    <td valign="top" width="630" align="left" height="46" style="border-top: 2px solid rgb(192,192,192)" rowspan="4"><font face="Arial, Helvetica"><p class="Address">&nbsp;<br>
+   Copyright © 2001  INTRAROM S.A. Romanian Telecommunications &amp;
+    Electronics Industry <br>
+    17, Fabrica de Glucoza Street, Sector 2, Cod 72322, Bucharest, ROMANIA <br>
+TEL: (401) 20.40.900, (401) 20.40.910; FAX: (401) 20.40.902; 
+ E-mail: <a href="https://web.archive.org/web/20020908085921/mailto:office@intrarom.ro">office@intrarom.ro</a> <br></font></td>
+  </tr>
+  <tr>
+    <td valign="top" width="160" align="left" height="15"><font face="Arial, Helvetica"><p class="Address">&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td valign="top" width="160" align="left" height="15"><font face="Arial, Helvetica"><p class="Address">&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td valign="top" width="160" align="left" height="1"><font face="Arial, Helvetica"><p class="Address">&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;</font></td>
+  </tr>
