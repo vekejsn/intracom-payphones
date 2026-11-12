@@ -7,14 +7,10 @@ To convert between the formats, use the `scramble.py` script in the `tools` dire
 
 To convert from the raw binary to the unscrambled version, run:
 
-```
-python3 tools/scramble.py --unscramble SOURCE.BIN UNSCRAMBLED.BIN
-```
+`python3 tools/scramble.py --unscramble SOURCE.BIN UNSCRAMBLED.BIN`
 
 To convert from the unscrambled version back to the raw binary, run:
 
-```
-python3 tools/scramble.py --scramble UNSCRAMBLED.BIN SOURCE.BIN
-```
+`python3 tools/scramble.py --scramble UNSCRAMBLED.BIN SOURCE.BIN`
 
 Additionally, you may attach an optional text file named `README.txt` that contains any relevant information about the firmware version - where it came from, what phone it was extracted from, etc. This is not required, but it is helpful for future reference.
