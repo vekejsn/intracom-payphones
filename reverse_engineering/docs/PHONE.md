@@ -44,8 +44,32 @@ address line A17 wasn't connected when the chip was read. **Hypothesis.**
 CARTELA DE 15 RON! AI BONUS INCLUS 10000 UNITATI!` ("Talk more with the 15 RON
 card! Bonus included, 10000 units!"). The currency name RON came into use in
 2005, so this build is no earlier than that. It's an inference from one
-string, not a version number. The firmware's own version and the phone model
-string are not recorded anywhere we've found.
+string, not a version number.
+
+**Version information.** A scan of every printable string in the 128 KiB image
+finds no version number, build date, copyright text, model name or the label
+`R4R1C`. The only identity-like data are:
+
+- A 4-byte **identifier `EA 77 9D 00`** in a data block at file `$4346`
+  (copied to RAM `$0100` at start-up). The update code compares it with a
+  stored copy to decide whether to replicate the image
+  ([FIRMWARE-UPDATE.md](FIRMWARE-UPDATE.md) §3), so it behaves like a
+  firmware ID plus a one-byte revision. Whether it is also sent to the server
+  is not established.
+- The image's **additive checksum** (all bytes from `$0800`, 16-bit): **`E663`**.
+  This is what `907#` displays for an unmodified half, so it works as a
+  fingerprint for this build. Together with the SHA-256 above, record both
+  when comparing against other dumps.
+- The text at `$0006` (the RON advertisement) is preceded by a six-byte
+  header (`02 00 4B 05 04 06`) and sits inside the first `$0800` bytes, which
+  the update checksum skips. Since the CSMS is described as downloading
+  advertising messages, this looks like replaceable data and not part of the
+  firmware's identity. **Hypothesis.**
+
+So the `R4R1C` sticker is the only name we have, and it exists only on the
+chip. A phone can change its running image over the line, so the sticker
+can't be trusted to match what the chip now holds. The checksum and
+identifier can.
 
 ### Memory map
 

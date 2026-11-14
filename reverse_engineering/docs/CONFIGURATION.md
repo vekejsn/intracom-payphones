@@ -90,8 +90,8 @@ time fields, an empty `#` is **not** a cancel (§4).
 | `060#0123456789#` | Terminal identifier (5 bytes). **Class 2 only** | Verified |
 | `062#2611120002#` | Set date/time, `YY MM DD hh mm` = 2026-11-12 00:02 | Verified |
 
-The value you type is in the setting's *wire* format: decimal digits for
-numeric fields (`0064`, not `40`). A setting your class can't write simply
+The value typed is in the setting's *wire* format: decimal digits for
+numeric fields (`0064`, not `40`). A setting the PIN class can't write simply
 doesn't change (for example `555657#` then `231#02#` leaves 231 at `01`).
 
 **Clock.** Writing 062 also sets the external clock chip. The ROM combines the
@@ -100,8 +100,8 @@ show a wrong year on its own. This verifies the emulated setter, not RTC
 battery behaviour.
 
 **Settings with an unknown purpose.** The editor will happily show and (if the
-mask allows) write about 245 base settings. Writing a number you don't
-understand is how you break a phone. See [SETTINGS.md](SETTINGS.md) §4.
+mask allows) write about 245 base settings. Writing a value of unknown
+purpose is a good way to break a phone. See [SETTINGS.md](SETTINGS.md) §4.
 
 ---
 
@@ -267,8 +267,8 @@ displayed correctly.
 | `999#` | Clears four bytes at `$0DF4` (class 2) |
 
 All were exercised only on synthetic EEPROM copies, and mostly statically
-traced for effect. Some changed several bytes. Don't run any of these on a
-phone you want to keep working.
+traced for effect. Some changed several bytes. None of these should be run on a
+phone that needs to keep working.
 
 ---
 

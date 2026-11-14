@@ -173,7 +173,7 @@ card needed, no debit, no paid record. See
 
 ## 5. Where to find real values
 
-If your phone's EEPROM is still the original, a dump may hold the real tariff.
+If a phone's EEPROM is still the original, a dump may hold the real tariff.
 Logical addresses (the EEPROM is paged into an 8 KiB window; see
 [SETTINGS.md](SETTINGS.md)). Amounts and periods are stored as 16-bit binary
 words (probably big-endian; unconfirmed) while the wire uses four BCD digits.
@@ -205,7 +205,7 @@ dial-plan table at flash `$8400` (outside the EEPROM), the card-range rows, and
 any pending call records ([ACCOUNTING.md](ACCOUNTING.md)), which show real
 dialled numbers with the charge actually applied.
 
-Once you have actual values, the unit question can be tested: compare a
+With actual values, the unit question can be tested: compare a
 pending record's length field with its debit and see which tariff entry fits.
 Currency still needs outside evidence, such as the operator's published card
 prices.

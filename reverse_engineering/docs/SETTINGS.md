@@ -337,7 +337,7 @@ service commands (`970#`–`972#`, `979#`) wipe ranges of 300–599; see
 
 ## 7. Practical notes
 
-- To write a base parameter you need its descriptor row: ID, wire width, format.
+- Writing a base parameter needs its descriptor row: ID, wire width, format.
   Then send type `17` with the value in wire format (§2). The write goes
   through the same range check as the keypad. Verified on 0, 4, 25 and 63.
 - Check the Access column before trying a local edit. `EE` slots — most of the
