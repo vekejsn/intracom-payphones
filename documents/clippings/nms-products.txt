@@ -1,0 +1,23 @@
+https://web.archive.org/web/20030104172050/http://www.intrarom.ro/products/network.htm
+
+Products - Network Management
+
+- Real Time Traffic Management System (RTTMS) - products/nms/rttms.htm
+- Pair Gain Management System (PGMS) - products/nms/pgms.htm
+- Cardphone Supervision & Maintenance System (CSMS) - products/nms/csms.htm
+- ISDN-Network Termination Management System (NTMS) - products/nms/ntms.htm
+- Radio Management System (RMS) - products/nms/rms.htm
+- Area Control Management System (ACMS) - products/nms/acms.htm
+- SEMIRAMIS - products/nms/semiramis.htm
+- Narrow Band Management System (NBMS) - products/nms/nbms.htm
+
+NMS Room
+  http://www.intrarom.ro/images/Products/nms/nms_room.jpg
+
+INTRACOM's Network Management Systems (NMS) Department provides the technology that allows operators to use their hardware resources to their full potential and to integrate network operation into their information - decision - action loops. NMS software products and engineering services cover the full spectrum of network management systems development and deployment. In the Systems Development area, NMS designs and implements management systems for INTRACOM's telecommunications family of products as well as third party equipment. In the Systems Integration area, NMS customises and tailors management systems according to customer needs. In both areas NMS delivers turn-key Network Management Solutions. The duality of NMS operations allows the adoption of a flexible strategy that embraces both international standards and customer needs. NMS adheres to the standards of groups such as, the International Standardisation Organisation (ISO), the International Telecommunications Union - Telecommunications Standardisation Sector (ITU-TSS), the European Telecommunications Standards Institute (ETSI), the Object Management Group (OMG) and within the Telecommunications Management Network (TMN) standards framework. Therefore, systems developed by the NMS can be integrated with the Telecommunication equipment from a wide range of vendors.
+
+Product Leaflet
+Operations Support Systems (PDF, 734 KB)
+  http://www.intrarom.ro/pdf/products/Netw_Man/nms-all.pdf
+
+Last update: 21 March, 2001

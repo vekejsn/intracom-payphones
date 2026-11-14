@@ -1,0 +1,40 @@
+https://web.archive.org/web/20021114082520/http://www.intrarom.ro/products/nms/csms.htm
+
+Network Management
+
+CSMS
+Cardphone Supervision & Maintenance System
+A scaleable management system for the remote supervision, administration, operation and maintenance of cardphone terminals produced by INTRACOM.
+
+Click here for enlarging the picture
+  http://www.intrarom.ro/images/Products/nms/CSMS-map-GR.GIF
+  http://www.intrarom.ro/images/Products/nms/CSMS-map-GR-xl.GIF
+
+CSMS - Carphone Supervivion in Greece
+
+Through user-friendly graphical interfaces operators are able to configure terminals, monitor their operation and detect faults. Integrated with the above is the prepaid telephone, smart card and credit card transaction management providing fraud detection and protection.
+
+Post-processing capabilities include statistic report generation providing operators with a business overview of their cardphone network. CSMS supports interoperability for technical interconnection and billing between operators.
+
+Features
+
+- Unix or Windows NT platforms
+- Friendly graphical user interface
+- Simple to use
+- Highly customisable operation
+- Flexible system architecture in order to adapt to the working structure of the operator
+- Functional blocks.
+- Automatic card blacklisting
+- Full cardphone management
+- Card series management
+- Digit analysis - tariff zone management
+- Card transactions management
+- Firmware downloading
+- Advertising messages downloading
+- Calculation of call time and revenue
+- Full reporting system
+- Full system administration
+- SAM Management
+- Credit card management/authorisation
+
+Last update: 04 April, 2000

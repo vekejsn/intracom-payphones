@@ -10,6 +10,8 @@ The purpose of this repository is to collect information about Intracom payphone
 - `documents/clippings/` - newspaper, website and magazine clippings about Intracom payphones.
 - `documents/marketing/` - marketing materials and product brochures for Intracom payphones.
 - `firmwares/` - firmware dumps from Intracom payphones, organized by version.
+- `pictures/` - photographs and scans, including PCB images and archived screenshots of the management systems.
+- `reverse_engineering/docs/` - protocol and settings documentation derived from the firmware.
 - `tools/` - tools and scripts for analyzing Intracom payphone firmware and data.
 
 ## Payphone Models
@@ -60,11 +62,92 @@ ROMTELECOM public cardphone network - over 35,000 Intracom-designed
 cardphones - and developed the national cardphone management system. From 2000
 onwards the phones in that network use EUROCHIP 2 technology.
 
-### Sources
+## Products
+
+### Network Management
+
+Beside the terminals themselves, Intracom's Network Management Systems (NMS)
+department delivered the software that runs the networks those terminals sit
+in: management systems for Intracom's own product family as well as turn-key
+solutions tailored for third-party equipment, following the ISO, ITU-T, ETSI and
+OMG standards within the TMN framework.
+
+The product line as listed in Intracom's Romanian catalogue (INTRAROM):
+
+| System | Name |
+|---|---|
+| **RTTMS** | Real Time Traffic Management System |
+| **PGMS** | Pair Gain Management System |
+| **CSMS** | Cardphone Supervision & Maintenance System |
+| **NTMS** | ISDN-Network Termination Management System |
+| **RMS** | Radio Management System |
+| **ACMS** | Area Control Management System |
+| **SEMIRAMIS** | SEMIRAMIS |
+| **NBMS** | Narrow Band Management System |
+
+### CSMS - Cardphone Supervision & Maintenance System
+
+The system that supervises the cardphone network: a scaleable management system
+for the remote supervision, administration, operation and maintenance of the
+cardphone terminals produced by Intracom.
+
+![CSMS operator view of a supervised cardphone network in Greece](pictures/nms/csms_map_gr_xl.gif)
+
+Through user-friendly graphical interfaces operators are able to configure
+terminals, monitor their operation and detect faults. Integrated with the above
+is the prepaid telephone, smart card and credit card transaction management,
+providing fraud detection and protection.
+
+Post-processing capabilities include statistic report generation, providing
+operators with a business overview of their cardphone network. CSMS supports
+interoperability for technical interconnection and billing between operators.
+
+Features:
+
+- Unix or Windows NT platforms
+- Friendly graphical user interface
+- Simple to use
+- Highly customisable operation
+- Flexible system architecture in order to adapt to the working structure of the operator
+- Functional blocks
+- Automatic card blacklisting
+- Full cardphone management
+- Card series management
+- Digit analysis - tariff zone management
+- Card transactions management
+- Firmware downloading
+- Advertising messages downloading
+- Calculation of call time and revenue
+- Full reporting system
+- Full system administration
+- SAM management
+- Credit card management/authorisation
+
+## Reverse engineering documentation
+
+Documents in `reverse_engineering/docs/` describe the **R4R1C** firmware (a
+Romanian Intrarom INT 200). They come from static analysis plus emulation of
+the ROM; nothing has been captured from a real phone or server yet, and each
+document says how sure it is of each claim.
+
+| Document | Covers |
+|---|---|
+| [PHONE.md](reverse_engineering/docs/PHONE.md) | The firmware image, memory map, hardware as the ROM sees it, boot, UI messages, how a call is charged, dial plan, firmware updates, error codes |
+| [SERVER.md](reverse_engineering/docs/SERVER.md) | Phone-to-server protocol: framing, CRC, message types, authentication, sessions, uploads |
+| [SETTINGS.md](reverse_engineering/docs/SETTINGS.md) | The 700 configuration parameters: encoding, access control, known meanings, full catalog |
+| [TARIFFS.md](reverse_engineering/docs/TARIFFS.md) | How a call is priced: charge/period parameters, answer modes, time windows, card scale, low credit, a worked example, and a table of EEPROM addresses to fill in from a dump |
+| [ACCOUNTING.md](reverse_engineering/docs/ACCOUNTING.md) | The 26-byte call record, how records are stored and uploaded, status lists, journal, per-mode upload stages |
+| [FIRMWARE-UPDATE.md](reverse_engineering/docs/FIRMWARE-UPDATE.md) | Two-image flash model, update messages, checksums, update states 0–5, recovery |
+| [HARDWARE-CHECKLIST.md](reverse_engineering/docs/HARDWARE-CHECKLIST.md) | Claims that a real board can confirm or overturn, ordered from safest to hardest, for an incomplete phone |
+| [CONFIGURATION.md](reverse_engineering/docs/CONFIGURATION.md) | Technician menu and PINs, maintenance numbers and schedule, service commands, provisioning tariffs and dial plan |
+
+
+## Sources
 
 - [Integrated Cardphone System](documents/marketing/inter_cardphone.pdf) - INT 100, INT 200, Line Unit, CSMS
 - [MUST 400 Cardphone](documents/marketing/must_400_cardphone.pdf) - MUST 400
 - [Phone Booth Series 100/200](documents/marketing/phone_booths.pdf) - booth models
 - [Intrarom product listing (archived)](documents/clippings/payphone-models.txt) - adds the INT 200 GSM and LU 300 model names
 - [Intrarom / ROMTELECOM public telephony](documents/clippings/romtelecom.txt) - Romanian deployment
-
+- [CSMS product page (archived)](documents/clippings/csms.txt) - Cardphone Supervision & Maintenance System
+- [Network Management product list (archived)](documents/clippings/nms-products.txt) - the NMS product family
