@@ -201,8 +201,10 @@ maps to a fixed ID, all inside the extended range:
 - Payload: `COUNT | ID_hi ID_lo × COUNT | 04`; with none, `00 04`.
   Example `02 02 0A 02 26 04` = IDs 522 and 550.
 
-Only IDs go out, not values. What each ID signals (alarms? counters?) isn't
-known, and the same IDs are what `951#` shows as status slots.
+Only IDs go out, not values. The IDs are the firmware's fault numbers (shown on
+the display as `EROARE nnn`) and the entries are their reporting states; see
+[ALARMS.md](ALARMS.md) for how they are raised, latched, reported and cleared.
+The same entries are what `951#` shows as status slots.
 
 ### Change journal (`24`)
 

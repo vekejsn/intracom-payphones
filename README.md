@@ -24,12 +24,13 @@ anti-fraud detection.
 
 ### Cardphones
 
-| Model | Type | Network | Dimensions (H x W x D) | Weight |
-|---|---|---|---|---|
-| **INT 100** | Indoor; table top or wall mounted | Analog (PSTN) | 75 x 189 x 220 mm | 1 kg (3 kg with inclined base) |
-| **INT 200** | Outdoor, wall mounted, all weather | Analog (PSTN) | 275 x 275 x 172 mm | 6.5 kg |
-| **INT 200 GSM** | Outdoor, wall mounted | GSM 900 / DCS 1800 | - | - |
-| **MUST 400** | ISDN terminal | ISDN U-interface | 290 x 285 x 155 mm | 6 kg |
+| Model             | Type                               | Network            | Dimensions (H x W x D) | Weight                         |
+| ----------------- | ---------------------------------- | ------------------ | ---------------------- | ------------------------------ |
+| **INT 100**       | Indoor; table top or wall mounted  | Analog (PSTN)      | 75 x 189 x 220 mm      | 1 kg (3 kg with inclined base) |
+| **INT 200**       | Outdoor, wall mounted, all weather | Analog (PSTN)      | 275 x 275 x 172 mm     | 6.5 kg                         |
+| **INT 200 GSM**   | Outdoor, wall mounted              | GSM 900 / DCS 1800 | -                      | -                              |
+| **INT 200 Thuraya** | Outdoor, wall mounted            | Satellite          | -                      | -                              |
+| **MUST 400**      | ISDN terminal                      | ISDN U-interface   | 290 x 285 x 155 mm     | 6 kg                           |
 
 Common to the INT series: a chip card reader (Eurochip I & II, T2G, 104-bit
 EEPROM / 256-bit EPROM), five SAM sockets for security modules, a 12-key
@@ -48,6 +49,8 @@ and the INT 200 share the same main board and card reader.
   transceiver) for areas without fixed network infrastructure, on-board public
   transport such as trains and ships, or temporary use at exhibitions, fairs
   and sporting events. Optional solar panel power supply, various antennas.
+- **INT 200 Thuraya** - the INT 200 with an integrated Thuraya satellite
+  module for areas without fixed network infrastructure.
 - **MUST 400** - *Multiple Services Terminal*. The ISDN member of the range,
   with a large 1/4 VGA LCD and eight programmable buttons beside the screen.
   Content is served by the CFDS (Content Formatting and Distribution System):
@@ -137,6 +140,8 @@ document says how sure it is of each claim.
 | [SETTINGS.md](reverse_engineering/docs/SETTINGS.md) | The 700 configuration parameters: encoding, access control, known meanings, full catalog |
 | [TARIFFS.md](reverse_engineering/docs/TARIFFS.md) | How a call is priced: charge/period parameters, answer modes, time windows, card scale, low credit, a worked example, and a table of EEPROM addresses to fill in from a dump |
 | [ACCOUNTING.md](reverse_engineering/docs/ACCOUNTING.md) | The 26-byte call record, how records are stored and uploaded, status lists, journal, per-mode upload stages |
+| [CALL-HOME.md](reverse_engineering/docs/CALL-HOME.md) | How a call starts and ends: dial and carrier start-up, session order, scheduled calls and wake-up, timeouts and automatic retries |
+| [ALARMS.md](reverse_engineering/docs/ALARMS.md) | The 13-entry fault table, thresholds, latching, how faults are reported to the server (types `10`/`12`), alarm-triggered calls, recovery, technician reset |
 | [FIRMWARE-UPDATE.md](reverse_engineering/docs/FIRMWARE-UPDATE.md) | Two-image flash model, update messages, checksums, update states 0–5, recovery |
 | [HARDWARE-CHECKLIST.md](reverse_engineering/docs/HARDWARE-CHECKLIST.md) | Claims that a real board can confirm or overturn, ordered from safest to hardest, for an incomplete phone |
 | [CONFIGURATION.md](reverse_engineering/docs/CONFIGURATION.md) | Technician menu and PINs, maintenance numbers and schedule, service commands, provisioning tariffs and dial plan |

@@ -1,4 +1,4 @@
-# R4R1C Payphone — Tariffs and Charging
+# Tariffs and Charging
 
 How the phone decides what a call costs, step by step, and where each number
 is stored. This pulls together material that is also in

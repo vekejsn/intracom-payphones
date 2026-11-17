@@ -345,7 +345,9 @@ performed.
 
 Both are editable from the original service menu. An empty entry is stored as
 `FF FF` and clears the scheduler slot. The code path links these events to
-session startup, but the timed dial-out has not been run to completion.
+session startup. In the emulator a due code `14` completes a full authenticated
+session, with retries on failure; the wake-up mechanism is a modelled
+hypothesis. See [CALL-HOME.md](CALL-HOME.md).
 
 ---
 

@@ -144,8 +144,10 @@ read-back and reboot.
 
 Don't edit the scheduler's internal table (eight 4-byte entries at `$07D0`) by
 hand: its minute word depends on clock and flags. When a code falls due, the
-ROM starts a maintenance session with that code. The lab hasn't run an expired
-schedule through to a complete scheduled call.
+ROM starts a maintenance session with that code. In the emulator a due schedule
+runs through to a complete call, but only with a modelled wake-up (cold reset
+plus an alarm-status input); how a real board wakes isn't known. See
+[CALL-HOME.md](CALL-HOME.md) §4.
 
 ---
 
